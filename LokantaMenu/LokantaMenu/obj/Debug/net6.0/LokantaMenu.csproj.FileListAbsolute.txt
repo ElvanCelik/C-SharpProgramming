@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\C# Programming\LokantaMenu\LokantaMenu\obj\Debug\net6.0\LokantaMenu.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C# Programming\LokantaMenu\LokantaMenu\obj\Debug\net6.0\LokantaMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\C# Programming\LokantaMenu\LokantaMenu\obj\Debug\net6.0\LokantaMenu.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\C# Programming\LokantaMenu\LokantaMenu\obj\Debug\net6.0\LokantaMenu.AssemblyInfo.cs
+C:\Users\DELL\Desktop\C# Programming\LokantaMenu\LokantaMenu\obj\Debug\net6.0\LokantaMenu.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C# Programming\LokantaMenu\LokantaMenu\bin\Debug\net6.0\LokantaMenu.exe
+C:\Users\DELL\Desktop\C# Programming\LokantaMenu\LokantaMenu\bin\Debug\net6.0\LokantaMenu.deps.json
+C:\Users\DELL\Desktop\C# Programming\LokantaMenu\LokantaMenu\bin\Debug\net6.0\LokantaMenu.runtimeconfig.json
+C:\Users\DELL\Desktop\C# Programming\LokantaMenu\LokantaMenu\bin\Debug\net6.0\LokantaMenu.dll
+C:\Users\DELL\Desktop\C# Programming\LokantaMenu\LokantaMenu\bin\Debug\net6.0\LokantaMenu.pdb
+C:\Users\DELL\Desktop\C# Programming\LokantaMenu\LokantaMenu\obj\Debug\net6.0\LokantaMenu.dll
+C:\Users\DELL\Desktop\C# Programming\LokantaMenu\LokantaMenu\obj\Debug\net6.0\refint\LokantaMenu.dll
+C:\Users\DELL\Desktop\C# Programming\LokantaMenu\LokantaMenu\obj\Debug\net6.0\LokantaMenu.pdb
+C:\Users\DELL\Desktop\C# Programming\LokantaMenu\LokantaMenu\obj\Debug\net6.0\LokantaMenu.genruntimeconfig.cache
+C:\Users\DELL\Desktop\C# Programming\LokantaMenu\LokantaMenu\obj\Debug\net6.0\ref\LokantaMenu.dll
