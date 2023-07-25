@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\C# Programming\Selection-Bubble Sort\Selection-Bubble Sort\bin\Debug\net6.0\Selection-Bubble Sort.exe
+C:\Users\DELL\Desktop\C# Programming\Selection-Bubble Sort\Selection-Bubble Sort\bin\Debug\net6.0\Selection-Bubble Sort.deps.json
+C:\Users\DELL\Desktop\C# Programming\Selection-Bubble Sort\Selection-Bubble Sort\bin\Debug\net6.0\Selection-Bubble Sort.runtimeconfig.json
+C:\Users\DELL\Desktop\C# Programming\Selection-Bubble Sort\Selection-Bubble Sort\bin\Debug\net6.0\Selection-Bubble Sort.dll
+C:\Users\DELL\Desktop\C# Programming\Selection-Bubble Sort\Selection-Bubble Sort\bin\Debug\net6.0\Selection-Bubble Sort.pdb
+C:\Users\DELL\Desktop\C# Programming\Selection-Bubble Sort\Selection-Bubble Sort\obj\Debug\net6.0\Selection-Bubble Sort.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C# Programming\Selection-Bubble Sort\Selection-Bubble Sort\obj\Debug\net6.0\Selection-Bubble Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\C# Programming\Selection-Bubble Sort\Selection-Bubble Sort\obj\Debug\net6.0\Selection-Bubble Sort.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\C# Programming\Selection-Bubble Sort\Selection-Bubble Sort\obj\Debug\net6.0\Selection-Bubble Sort.AssemblyInfo.cs
+C:\Users\DELL\Desktop\C# Programming\Selection-Bubble Sort\Selection-Bubble Sort\obj\Debug\net6.0\Selection-Bubble Sort.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C# Programming\Selection-Bubble Sort\Selection-Bubble Sort\obj\Debug\net6.0\Selection-Bubble Sort.dll
+C:\Users\DELL\Desktop\C# Programming\Selection-Bubble Sort\Selection-Bubble Sort\obj\Debug\net6.0\refint\Selection-Bubble Sort.dll
+C:\Users\DELL\Desktop\C# Programming\Selection-Bubble Sort\Selection-Bubble Sort\obj\Debug\net6.0\Selection-Bubble Sort.pdb
+C:\Users\DELL\Desktop\C# Programming\Selection-Bubble Sort\Selection-Bubble Sort\obj\Debug\net6.0\Selection-Bubble Sort.genruntimeconfig.cache
+C:\Users\DELL\Desktop\C# Programming\Selection-Bubble Sort\Selection-Bubble Sort\obj\Debug\net6.0\ref\Selection-Bubble Sort.dll
