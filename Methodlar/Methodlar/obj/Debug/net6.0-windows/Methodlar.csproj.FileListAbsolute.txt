@@ -1,0 +1,17 @@
+C:\Users\DELL\Desktop\C# Programming\Methods\Methodlar\Methodlar\bin\Debug\net6.0-windows\Methodlar.exe
+C:\Users\DELL\Desktop\C# Programming\Methods\Methodlar\Methodlar\bin\Debug\net6.0-windows\Methodlar.deps.json
+C:\Users\DELL\Desktop\C# Programming\Methods\Methodlar\Methodlar\bin\Debug\net6.0-windows\Methodlar.runtimeconfig.json
+C:\Users\DELL\Desktop\C# Programming\Methods\Methodlar\Methodlar\bin\Debug\net6.0-windows\Methodlar.dll
+C:\Users\DELL\Desktop\C# Programming\Methods\Methodlar\Methodlar\bin\Debug\net6.0-windows\Methodlar.pdb
+C:\Users\DELL\Desktop\C# Programming\Methods\Methodlar\Methodlar\obj\Debug\net6.0-windows\Methodlar.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C# Programming\Methods\Methodlar\Methodlar\obj\Debug\net6.0-windows\Methodlar.Form1.resources
+C:\Users\DELL\Desktop\C# Programming\Methods\Methodlar\Methodlar\obj\Debug\net6.0-windows\Methodlar.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\C# Programming\Methods\Methodlar\Methodlar\obj\Debug\net6.0-windows\Methodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\C# Programming\Methods\Methodlar\Methodlar\obj\Debug\net6.0-windows\Methodlar.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\C# Programming\Methods\Methodlar\Methodlar\obj\Debug\net6.0-windows\Methodlar.AssemblyInfo.cs
+C:\Users\DELL\Desktop\C# Programming\Methods\Methodlar\Methodlar\obj\Debug\net6.0-windows\Methodlar.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C# Programming\Methods\Methodlar\Methodlar\obj\Debug\net6.0-windows\Methodlar.dll
+C:\Users\DELL\Desktop\C# Programming\Methods\Methodlar\Methodlar\obj\Debug\net6.0-windows\refint\Methodlar.dll
+C:\Users\DELL\Desktop\C# Programming\Methods\Methodlar\Methodlar\obj\Debug\net6.0-windows\Methodlar.pdb
+C:\Users\DELL\Desktop\C# Programming\Methods\Methodlar\Methodlar\obj\Debug\net6.0-windows\Methodlar.genruntimeconfig.cache
+C:\Users\DELL\Desktop\C# Programming\Methods\Methodlar\Methodlar\obj\Debug\net6.0-windows\ref\Methodlar.dll
